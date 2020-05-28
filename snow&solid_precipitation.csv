@@ -1,5 +1,4 @@
-A,B,C,D,E,F,G,H
-No.,"GCW variables agreed in 2017(updated by ones approved by TT-WMD)",Definitions submitted by GCW and approved by TT-WMD ,Approval Date by TT-WMD,Recommended (R)/Desired (D) variable,Recommended min. frequency of obs: method (var)-timescale,GCW variables agreed in 2017,Variable name and definition in code list of WMDR differing from column B or C
+A: No.,B: GCW variables agreed in 2017(updated by ones approved by TT-WMD),C: Definitions submitted by GCW and approved by TT-WMD,D: Approval Date by TT-WMD,E: Recommended (R)/Desired (D) variable,F: Recommended min. frequency of obs: method (var)-timescale,G: GCW variables agreed in 2017,H: Variable name and definition in code list of WMDR differing from column B or C
 1,snow depth,Vertical distance from the snow surface to a stated reference level.,26-Apr-18,R,"A(S, G, SI, LRI)-h,  M(S)-d, M(SI, LRI)-bw, M(G, IS)-y",Snow depth (including stake farms and snow courses)  ,/
 1+,snow depth,Vertical distance from the snow surface to a stated reference level.,26-Apr-18,D,"A(IS, P)-h,  M(P)-d, M(S)-bw",Snow depth (including stake farms and snow courses) ,/
 2,water equivalent of snow cover,"The vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area.",26-Apr-18,R,"A(S)-h, M(S)-bw, M(G, IS)-y",Snow Water Equivalent,/
