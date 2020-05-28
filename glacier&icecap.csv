@@ -1,19 +1,18 @@
-A,B,C,D,E,F,G
-GCW variables agreed in 2017(updated by ones approved by TT-WMD),Definitions submitted by GCW and approved by TT-WMD ,Approval Date by TT-WMD,Recommended (R)/Desired (D) variable,Recommended min. frequency of obs: method (var)-timescale,GCW variables agreed in 2017,Variable name and definition in code list of WMDR differing from column A or B
-surface accumulation at a point,The mass added to the glacier at a point on its surface expressed over a stated period of time.,23 Sep. 2019,R,"A-h, M-s",Surface accumulation (point) ,/
-surface ablation at a point,The mass removed from the glacier at a point on its surface expressed over a stated period of time.,23 Sep. 2019,R,"A-h, M-y",Surface ablation (point) ,/
-glacier-wide mass balance,"The result of all processes adding and removing mass from the glacier at its surface, expressed over a stated period of time and integrated over the entire glacier area.",23 Sep. 2019,R,M-y,Surface mass balance (glacier wide) ,/
-glacier-wide mass balance,"The result of all processes adding and removing mass from the glacier at its surface, expressed over a stated period of time and integrated over the entire glacier area.",23 Sep. 2019,D,M-y,Surface mass balance (glacier wide) ,/
-glacier mass balance at a point,"The result of all processes adding and removing mass from the glacier at a point on its surface, expressed over a stated period of time.",23 Sep. 2019,R,"A-h, M-y",Surface mass balance (point) ,/
-glacier area,Area enclosed by the projection of the glacier outline onto the surface of an ellipsoid approximating the surface of the Earth or onto a planar horizontal approximation to that ellipsoid. The glacier area excludes nunataks but includes debris-covered parts of the glacier. The glacier outline separates the glacier from unglacierized terrain and from contiguous glaciers.,23 Sep. 2019,R,M -my,Glacier area (glacier wide) ,/
-Ice velocity (point) ,/,/,D,"A-h, M-y",Ice velocity (point) ,Glacier motion: Velocity of the ice measured at the surface of a glacier.
-Glacier volume (glacier wide),/,/,D,M-my,Glacier volume (glacier wide),/
-Surface accumulation (glacier wide),/,/,D,M-y,Surface accumulation (glacier wide),/
-,,,,,,
-Surface ablation (glacier wide),/,/,D,M-y,Surface ablation (glacier wide),/
-Basal Ablation (point),/,/,D,"A-h, M-y",Basal Ablation (point),/
-Glacier thickness (point),/,/,D,M-my,Glacier thickness (point),/
-Glacial runoff,/,/,D,A-h,Glacial runoff,/
-Calving flux (point),/,/,D,A/M-y,Calving flux (point),/
-Ice/firn temperature profile (point),/,/,D,A-h,Ice/firn temperature profile (point),/
-/,/,/,/,/,/,Glacier topography: Map of the height of the glacier surface.
+A,B,C,D,E,F,G,H
+No.,GCW variables agreed in 2017(updated by ones approved by TT-WMD),Definitions submitted by GCW and approved by TT-WMD ,Approval Date by TT-WMD,Recommended (R)/Desired (D) variable,Recommended min. frequency of obs: method (var)-timescale,GCW variables agreed in 2017,Variable name and definition in code list of WMDR differing from column B or C
+1,surface accumulation at a point,The mass added to the glacier at a point on its surface expressed over a stated period of time.,23 Sep. 2019,R,"A-h, M-s",Surface accumulation (point) ,/
+2,surface ablation at a point,The mass removed from the glacier at a point on its surface expressed over a stated period of time.,23 Sep. 2019,R,"A-h, M-y",Surface ablation (point) ,/
+3,glacier-wide mass balance,"The result of all processes adding and removing mass from the glacier at its surface, expressed over a stated period of time and integrated over the entire glacier area.",23 Sep. 2019,R,M-y,Surface mass balance (glacier wide) ,/
+4,glacier-wide mass balance,"The result of all processes adding and removing mass from the glacier at its surface, expressed over a stated period of time and integrated over the entire glacier area.",23 Sep. 2019,D,M-y,Surface mass balance (glacier wide) ,/
+5,glacier mass balance at a point,"The result of all processes adding and removing mass from the glacier at a point on its surface, expressed over a stated period of time.",23 Sep. 2019,R,"A-h, M-y",Surface mass balance (point) ,/
+6,glacier area,Area enclosed by the projection of the glacier outline onto the surface of an ellipsoid approximating the surface of the Earth or onto a planar horizontal approximation to that ellipsoid. The glacier area excludes nunataks but includes debris-covered parts of the glacier. The glacier outline separates the glacier from unglacierized terrain and from contiguous glaciers.,23 Sep. 2019,R,M -my,Glacier area (glacier wide) ,/
+7,Ice velocity (point) ,/,/,D,"A-h, M-y",Ice velocity (point) ,Glacier motion: Velocity of the ice measured at the surface of a glacier.
+8,Glacier volume (glacier wide),/,/,D,M-my,Glacier volume (glacier wide),/
+9,Surface accumulation (glacier wide),/,/,D,M-y,Surface accumulation (glacier wide),/
+10,Surface ablation (glacier wide),/,/,D,M-y,Surface ablation (glacier wide),/
+11,Basal Ablation (point),/,/,D,"A-h, M-y",Basal Ablation (point),/
+12,Glacier thickness (point),/,/,D,M-my,Glacier thickness (point),/
+13,Glacial runoff,/,/,D,A-h,Glacial runoff,/
+14,Calving flux (point),/,/,D,A/M-y,Calving flux (point),/
+15,Ice/firn temperature profile (point),/,/,D,A-h,Ice/firn temperature profile (point),/
+16,/,/,/,/,/,/,Glacier topography: Map of the height of the glacier surface.
