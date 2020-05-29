@@ -1,17 +1,17 @@
 ---
 name: VarProposal
 about: propose cryospheric variable name, definition, and minimum observing frequency
-title: "[VarProposal] put your proposed variable name here"
-labels: ''
+title: "[VarProposal] put original variable name here"
+labels: VarProposal
 assignees: ''
 
 ---
 
-#variable name:
+#proposed variable name:
 
-#variable definition:
+#proposed variable definition:
 
-#minimum observing requirement(if differs from 2017 list agreed by GSG):
+#proposed minimum observing requirement(if differs from 2017 list agreed by GSG):
 
 #consideration:
 
